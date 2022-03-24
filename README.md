@@ -1,4 +1,4 @@
-# CHBackend Backend Deploy Guide
+# MusicianBackend Backend Deploy Guide
 
 ## Development setup
 
