@@ -1,4 +1,4 @@
-# MusicianBackend Backend Deploy Guide
+# Musician Backend Deploy Guide
 
 ## Development setup
 
